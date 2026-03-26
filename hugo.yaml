@@ -2,3 +2,7 @@ baseURL: https://example.org/
 locale: en-us
 title: Little Wolf Cub
 theme: ["PaperMod"]
+
+caches:
+  images:
+    dir: :cacheDir/images
